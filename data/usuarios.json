@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "id": 1,
+        "nombre": "Administrador",
+        "email": "admin@example.com",
+        "password": "$2y$10$OqJmg1oUTqFGvv5ywo.7deG9tkVgWDQ1nsZvaWBzuuv7sqxwhwBfu",
+        "rol": "admin",
+        "fecha_registro": "2025-05-06 03:41:49"
+    },
+    {
+        "id": 2,
+        "nombre": "Cliente Ejemplo",
+        "email": "cliente@example.com",
+        "password": "$2y$10$jSyT9Wx5RQYMmzfBWvzVSeIJFaTn5xPuorLwdCpfBK9PfKxT64R5a",
+        "rol": "cliente",
+        "fecha_registro": "2025-05-06 03:41:49"
+    },
+    {
+        "id": 3,
+        "nombre": "Test User",
+        "email": "testuser@example.com",
+        "password": "$2y$10$PAl4EFQMCD7lrehHK45oL.USBAGuWJsCKZae7zfx8cDUdw1rXti3m",
+        "rol": "cliente",
+        "fecha_registro": "2025-05-06 03:43:26"
+    }
+]

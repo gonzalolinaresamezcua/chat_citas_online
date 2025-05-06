@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "id": 1,
+        "nombre": "Corte de Cabello",
+        "descripcion": "Servicio profesional de corte de cabello con las \u00faltimas tendencias y estilos personalizados para cada cliente.",
+        "duracion": 30
+    },
+    {
+        "id": 2,
+        "nombre": "Masaje Terap\u00e9utico",
+        "descripcion": "Masaje relajante que alivia tensiones musculares y proporciona bienestar general. T\u00e9cnicas personalizadas seg\u00fan necesidades.",
+        "duracion": 60
+    },
+    {
+        "id": 3,
+        "nombre": "Limpieza Facial",
+        "descripcion": "Tratamiento facial completo que incluye limpieza profunda, exfoliaci\u00f3n y mascarilla hidratante para una piel radiante.",
+        "duracion": 45
+    },
+    {
+        "id": 4,
+        "nombre": "Manicura y Pedicura",
+        "descripcion": "Servicio completo de manicura y pedicura que incluye limado, pulido, tratamiento de cut\u00edculas y esmaltado. Cuidado profesional para mantener tus u\u00f1as saludables y con un aspecto impecable.",
+        "duracion": 30
+    }
+]

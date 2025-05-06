@@ -1,1 +1,26 @@
-[]
+[
+    {
+        "id": 1,
+        "usuario_id": 2,
+        "servicio_id": 1,
+        "fecha": "2025-05-06 10:00:00",
+        "estado": "confirmada",
+        "mensaje": "Tu cita para Corte de Cabello est\u00e1 programada hoy a las 10:00. \u00a1Te esperamos!"
+    },
+    {
+        "id": 2,
+        "usuario_id": 2,
+        "servicio_id": 2,
+        "fecha": "2025-05-07 15:30:00",
+        "estado": "confirmada",
+        "mensaje": "Tu cita para Masaje Terap\u00e9utico est\u00e1 pendiente de confirmaci\u00f3n para ma\u00f1ana a las 15:30."
+    },
+    {
+        "id": 3,
+        "usuario_id": 2,
+        "servicio_id": 3,
+        "fecha": "2025-05-08 11:15:00",
+        "estado": "rechazada",
+        "mensaje": "Lo sentimos, tu cita para Limpieza Facial no est\u00e1 disponible en el horario solicitado."
+    }
+]
